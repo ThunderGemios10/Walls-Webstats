@@ -2,7 +2,7 @@
 $dbhost='localhost'; // Host name
 $dbuser='root'; // Mysql username
 $dbpass=''; // Mysql password
-$dbname='survivalgames'; // Database name
+$dbname='walls'; // Database name
 $dbprefix = 'sg_'; //Table Prefix
 
 
