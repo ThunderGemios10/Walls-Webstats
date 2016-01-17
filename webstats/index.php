@@ -1,7 +1,7 @@
 <?php require_once( 'db_con.php' ); error_reporting(0); ?>
 <html>
 <head>
-<title>SG: Stats</title>
+<title>Walls: Stats</title>
 
 <style>
 @import url(style.css);
