@@ -3,7 +3,7 @@ $dbhost='localhost'; // Host name
 $dbuser='root'; // Mysql username
 $dbpass=''; // Mysql password
 $dbname='walls'; // Database name
-$dbprefix = 'sg_'; //Table Prefix
+$dbprefix = 'walls_'; //Table Prefix
 
 
 
